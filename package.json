@@ -2,7 +2,7 @@
   "name": "G12vogels",
   "version": "2.2.0",
   "author": "Ryan Fitzgerald <ryan@codebrewstudios.com>",
-  "description": "DynamoDB data mapper for NETS212 G12 PennBook",
+  "description": "DynamoDB data mapper for NETSBook",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
