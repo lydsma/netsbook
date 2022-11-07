@@ -36,11 +36,11 @@
   },
   "devDependencies": {
     "chai": "1.x.x",
-    "istanbul": "^0.3.5",
+    "istanbul": "^0.4.5",
     "jscoverage": "^0.5.9",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
-    "mocha": "2.x.x",
+    "mocha": "10.x.x",
     "sinon": "1.12.x"
   }
 }
